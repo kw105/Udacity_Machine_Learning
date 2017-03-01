@@ -1,2 +1,2 @@
-# Udacity_Machine_Learning
-This repository contains all the projects as part of the Udacity Machine Learning Nanodegree curriculum.
+# Machine Learning Engineer Nanodegree
+This repository contains all the projects for the Udacity Machine Learning Nanodegree curriculum.
