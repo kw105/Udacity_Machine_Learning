@@ -1,4 +1,7 @@
 # Machine Learning Engineer Nanodegree
+
+![Alt text](./MLND_verified_certificate.png?raw=true "Title")
+
 This repository contains all the projects for the <a href="https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009">Udacity Machine Learning Nanodegree</a> curriculum.
 
 Projects:
