@@ -18,4 +18,4 @@ P4: Train a Smartcab to Drive
 
 P5: Build a Digit Recognition Program
 
-P6: Capstone Project
+P6: Capstone Project (Predicting long-term stock gain using machine learning methods)
