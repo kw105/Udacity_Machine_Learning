@@ -4,7 +4,7 @@ capstone.ipynb is the Jupyter Notebook used to complete this project.
 
 report.html contains a html report from the Jupyter Notebook.
 
-Capstone Project Report v2.pdf contains the final report for this project.
+'Capstone Project Report Summary.pdf' contains a summary for this project (updated in March 2017).
 
 The following is the project description from Udacity. See more details at https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009.
 
